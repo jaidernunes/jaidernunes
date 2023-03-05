@@ -1,8 +1,20 @@
-### Hi there 👋
+### Hi there! 👋
+### I'm Jaider, welcome to my GitHub! 😄
 
- <h3 align="left">I'm fammiliar with:</h3>
+💻 I'm a full-stack web developer, currently learning more back-end stacks at Trybe bootcamp.
+ <br>
+💚 My main interests are technology, AI, yoga, series, animes, reading and gaming.
+ <br>
+🔭 Eager to learn more about Artificial Intelligence.  
+📫 Reach me at https://www.linkedin.com/in/jaidernunes/ or jaidernf@gmail.com .
+<br>
+ 
+<i> Feel free to contact me if you have any questions or if you're interested in collaborating on a project. </i>
+
+
+<h3 align="left">I'm fammiliar with:</h3>
 <table width="320px">
-    <tbody>
+<!--     <tbody> -->
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Javascript</strong></span><br>
@@ -56,19 +68,6 @@
             <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
             </td>
         </tr>
-    </tbody>
-</table>
-
- </div>
- 
- <h3 align="left">I will be learning soon:</h3>
-<table width="320px">
-    <tbody>     
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>MongoDB</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
-            </td>
             <td width="80px" align="center">
             <span><strong>MySQL</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
@@ -81,8 +80,19 @@
             <span><strong>Node</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
             </td>
-        </tr>     
+<!--     </tbody> -->
+</table>
+
+ </div>
+ 
+ <h3 align="left">I will be learning soon:</h3>
+<table width="320px">
+    <tbody>     
         <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>MongoDB</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+            </td>
             <td width="80px" align="center">
             <span><strong>Tailwind</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
