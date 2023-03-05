@@ -1,5 +1,5 @@
-### Hi there! 👋
-### I'm Jaider, welcome to my GitHub! 😄
+### Hi there! 👋 I'm Jaider, welcome to my GitHub! 😄
+
 
 💻 I'm a full-stack web developer, currently learning more back-end stacks at Trybe bootcamp.
  <br>
