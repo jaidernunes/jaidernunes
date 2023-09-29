@@ -67,7 +67,24 @@
             <span><strong>Bootstrap</strong></span><br>
             <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
             </td>
-        </tr>
+         <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>MongoDB</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Tailwind</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>TypeScript</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+            </td>
+         </tr>    
             <td width="80px" align="center">
             <span><strong>MySQL</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
@@ -85,28 +102,22 @@
 
  </div>
  
- <h3 align="left">I will be learning soon:</h3>
+ <h3 align="left">I'm currently learning:</h3>
 <table width="320px">
     <tbody>     
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>MongoDB</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+            <span><strong>Flutter</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Tailwind</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+            <span><strong>Java</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>TypeScript</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+            <span><strong>C</strong></span><br>
+            <img height="32px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png">
             </td>
-            <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-            </td>
-         </tr>     
-    </tbody>
 </table>
 
 <br/>
